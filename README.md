@@ -17,6 +17,7 @@ This project is an interactive Power BI Sales Dashboard developed to analyze sal
 - Power BI
 - Dax
 - Excel
+- Sql
 
 ## Key Business Insights
 - Dhaka generated the highest revenue among all regions.
@@ -26,6 +27,14 @@ This project is an interactive Power BI Sales Dashboard developed to analyze sal
 
 ## Dashboard Preview
 #Sales Dashboard.png
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- KPI Reporting
+- Interactive Filtering
 
 ## Author
 Shadman Sakib
