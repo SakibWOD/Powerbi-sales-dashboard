@@ -15,7 +15,7 @@ This project is an interactive Power BI Sales Dashboard developed to analyze sal
 
 ## Tools & Technologies
 - Power BI
-- SQL
+- Dax
 - Excel
 
 ## Key Business Insights
